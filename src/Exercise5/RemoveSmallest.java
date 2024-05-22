@@ -1,5 +1,6 @@
 package Exercise5;
 
+import javax.swing.*;
 import java.util.*;
 public class RemoveSmallest {
     Scanner in = new Scanner(System.in);
